@@ -24,7 +24,7 @@ const Login = () => {
         onChange={(e) => setUsername(e.target.value)}
         placeholder="username"
       />
-      {"  "}
+      {" "}
       <input
         className="border-2 px-0.5"
         type="password"
